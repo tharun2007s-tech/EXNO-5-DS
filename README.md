@@ -119,4 +119,4 @@ plt.show()
 
 # Result:
 
- Include your result here
+Thus , The data visualization using matplotlib library is completed successfully
